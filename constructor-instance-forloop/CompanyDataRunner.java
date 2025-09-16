@@ -1,19 +1,14 @@
 class CompanyDataRunner{
-	public static void main(String [] args){
-		
-		CompanyData companyData=new CompanyData();
-		
-		EmployeeData firstEmployeeData=new EmployeeData("Prasad",6360211265l);
-		EmployeeData secondEmployeeData=new EmployeeData("Alphin",9845678634l);
-		EmployeeData thirdEmployeeData=new EmployeeData("Kumar",7865983452l);
-		EmployeeData fourthEmployeeData=new EmployeeData("Vishnu",9988647983l);
-		EmployeeData fifthEmployeeData=new EmployeeData("Chetan",8745230845l);
-		
-		EmployeeData [] employeeData={firstEmployeeData,secondEmployeeData,thirdEmployeeData,
-		                               fourthEmployeeData,fifthEmployeeData};
-		
-		
-		companyData.companyDisplay(employeeData);
-		
-	}
-}
+  public static void main (String [] args){
+  
+  CompanyData companyData =new CompanyData();
+  
+ EmpolyeeData salary1st = new EmpolyeeData(300,"idea");
+  EmpolyeeData salary2nd = new EmpolyeeData(400,"vipro");
+  EmpolyeeData  salary3rd = new EmpolyeeData(500,"Boss");
+  EmpolyeeData salary4rth = new EmpolyeeData(600,"Royal");
+  
+ EmpolyeeData [] store={salary1st,salary2nd,salary3rd,salary4rth};
+  companyData.detalies(store);
+  }
+} 
