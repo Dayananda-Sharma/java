@@ -1,0 +1,4 @@
+class SmallTiger extends Tiger{
+
+
+}

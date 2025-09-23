@@ -1,0 +1,4 @@
+class SmallLion extends Lion{
+
+
+ }

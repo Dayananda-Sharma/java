@@ -1,0 +1,4 @@
+class Gear extends Bus{
+
+
+ }

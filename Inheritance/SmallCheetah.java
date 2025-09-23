@@ -1,0 +1,4 @@
+class SmallCheetah extends Cheetah{
+
+
+}

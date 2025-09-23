@@ -1,0 +1,4 @@
+class SmallElephant extends Elephant{
+
+
+} 

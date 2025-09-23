@@ -1,0 +1,4 @@
+class SmallDeer extends Deer{
+
+
+}
