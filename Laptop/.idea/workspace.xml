@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01b44f02-f5c2-4ba8-9ed6-e00219f421f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/events/LapBrandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/events/LaptopBatteryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/events/LaptopNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/events/LaptopPriceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/events/LaptopRamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/external/LaptopRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/Laptop/internal/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentFeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentPhoneNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/external/StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/internal/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/events/MobileBatteryLifeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/events/MobileBrandException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/events/MobileNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/events/MobilePriceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/events/MobileRamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/external/MobileRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mobile/src/com/xworkz/mobile/internal/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/events/SchoolAddressException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/events/SchoolFeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/events/SchoolIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/events/SchoolNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/events/TotalStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/external/SchoolRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../school/src/com/xworkz/school/internal/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/EmailCheckException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/NoOfAppsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/OneTimePasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/UserNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/external/SocialMediaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/internal/SocialMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35fK50VouE7qbf6w4leEeDY9D56" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LaptopRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01b44f02-f5c2-4ba8-9ed6-e00219f421f0" name="Changes" comment="" />
+      <created>1763495498609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763495498609</updated>
+    </task>
+    <servers />
+  </component>
+</project>

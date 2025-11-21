@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f3a494-b633-43c5-bd55-60ff956de129" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentFeeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/events/StudentPhoneNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/external/StudentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student/src/com/xworkz/student/internal/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/EmailCheckException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/NoOfAppsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/OneTimePasswordException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/events/UserNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/external/SocialMediaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/src/com/xworkz/socialmedia/internal/SocialMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="35fEGV4IRhIQmhsrfvFaVFZOHIk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f3a494-b633-43c5-bd55-60ff956de129" name="Changes" comment="" />
+      <created>1763492630770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763492630770</updated>
+    </task>
+    <servers />
+  </component>
+</project>
